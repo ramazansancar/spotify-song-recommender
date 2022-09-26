@@ -17,11 +17,10 @@ export default class AuthStore {
   @action
   login() {
     const url = "https://accounts.spotify.com/authorize/";
-    const clientId = "?client_id=a0f95c7d678747998a81763330ebfc4e";
+    const clientId = "?client_id=b69a3426330a466ca43719034fa73d39";
     const responseType = "&response_type=token";
     const redirectURIdev = "&redirect_uri=http://localhost:3000/redirect";
-    const redirectURIProd =
-      "&redirect_uri=https://spotify-song-recommender.onrender.com/redirect";
+    const redirectURIProd = `&redirect_uri=${process.env.PUBLIC_URL}/redirect`;
     const redirectURI =
       process.env.NODE_ENV === "production" ? redirectURIProd : redirectURIdev;
     const scopes =
