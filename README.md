@@ -7,9 +7,9 @@
 [<img alt="Deploy to Netlify" src="https://github.com/ramazansancar/spotify-song-recommender/raw/master/assets/netlify-deploy.svg" width="150">](https://app.netlify.com/start/deploy?repository=https://github.com/ramazansancar/spotify-song-recommender)
 [<img alt="Deploy to Render" src="https://github.com/ramazansancar/spotify-song-recommender/raw/master/assets/deploy-to-render-button.svg" width="150">](https://render.com/deploy?repo=https://github.com/ramazansancar/spotify-song-recommender)
 [<img alt="Deploy to Railway" src="https://github.com/ramazansancar/spotify-song-recommender/raw/master/assets/railway-deploy.svg" width="150">](https://railway.app/new/template/UcfVrH)
-[<img alt="Deploy to Okteto" src="https://github.com/ramazansancar/spotify-song-recommender/raw/master/assets/develop-okteto.svg" width="200">]([https://vercel.com/new/git/external?repository-url=](https://cloud.okteto.com/deploy?repository=)https://github.com/ramazansancar/spotify-song-recommender&branch=master)
-[<img alt="Deploy to Repl.it" src="https://github.com/ramazansancar/spotify-song-recommender/raw/master/assets/replit-deploy.svg" width="150">]([https://app.netlify.com/start/deploy?repository=https://github.com/ramazansancar/spotify-song-recommender](https://replit.com/github/ramazansancar/spotify-song-recommender))
-
+[<img alt="Deploy to Okteto" src="https://github.com/ramazansancar/spotify-song-recommender/raw/master/assets/develop-okteto.svg" width="200">](https://cloud.okteto.com/deploy?repository=https://github.com/ramazansancar/spotify-song-recommender&branch=master)
+[<img alt="Deploy to Repl.it" src="https://github.com/ramazansancar/spotify-song-recommender/raw/master/assets/replit-deploy.svg" width="150">](https://replit.com/github/ramazansancar/spotify-song-recommender)
+[<img alt="Deploy to Gitpod.io" src="https://github.com/ramazansancar/spotify-song-recommender/raw/master/assets/gitpod_big.png" width="150">](https://gitpod.io/#https://github.com/ramazansancar/spotify-song-recommender)
 
 ### .env
 ```ruby
