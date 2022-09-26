@@ -17,7 +17,7 @@ export default class AuthStore {
   @action
   login() {
     const url = "https://accounts.spotify.com/authorize/";
-    const clientId = `?client_id=${process.env.SPOTIFY_CLIENT_ID}`;
+    const clientId = `?client_id=b69a3426330a466ca43719034fa73d39`;
     const responseType = "&response_type=token";
     const redirectURIdev = "&redirect_uri=http://localhost:3000/redirect";
     const redirectURIProd = `&redirect_uri=${process.env.PUBLIC_URL}/redirect`;
