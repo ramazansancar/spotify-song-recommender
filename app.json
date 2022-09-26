@@ -1,0 +1,7 @@
+{
+  "name": "Spotify Song Recommender",
+  "description": "Spotify Song Recommender App",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "https://spotify.ramazansancar.com.tr/favicon.ico",
+  "keywords": ["node", "express", "static"]
+}
